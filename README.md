@@ -1,2 +1,2 @@
 # Personal-website
-It is a in-progress personal-website describing about me and my skills and how you can reach out to me 
+It is a in-progress personal-website describing describe myself and my skills and how you can reach out to me 
